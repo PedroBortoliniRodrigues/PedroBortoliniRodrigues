@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://instagram.com/pedro.bortolinii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-b-24b672134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
   ![Snake animation](https://github.com/PedroBortoliniRodrigues/PedroBortoliniRodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
