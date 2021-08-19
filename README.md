@@ -1,4 +1,4 @@
-### Hi, Hi, I'm Pedro Bortolini 👋
+Hi, I'm Pedro Bortolini 👋
 
 <!--
 **PedroBortoliniRodrigues/PedroBortoliniRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
